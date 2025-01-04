@@ -1,1 +1,2 @@
 # Insurance-Analytics
+The Insurance Analytics Dashboard provides a comprehensive view of key performance indicators (KPIs) and trends within the insurance industry, designed to support data-driven decision-making. This interactive and visually engaging dashboard enables insurers, business analysts, and executives to monitor and analyze critical metrics related to policy management, claims processing, and customer engagement.
